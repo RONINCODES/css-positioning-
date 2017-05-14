@@ -37,3 +37,17 @@ article.film {
     float:right;
     color:red
 }
+
+figure.film-poster {
+    position:relative;
+
+}
+
+i.fa.fa-2x.fa-clock-o {
+    position:absolute;
+    top:0.25em;
+    right:0.25em;
+    color:red;
+    font-size:5em
+}
+    
