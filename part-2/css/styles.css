@@ -27,3 +27,13 @@ figure {
   width: 50%;
   margin: 40px auto;
 }
+
+article.film {
+    margin: 2em 0 2em 2em;
+    border: 2px solid #f0f0f0;
+    padding: 1em;
+}
+.action-like {
+    float:right;
+    color:red
+}
